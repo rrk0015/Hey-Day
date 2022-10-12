@@ -4,7 +4,7 @@ Auburn University has a tradition called the Hey Day that is celebrated annually
 
 If you see another Auburn affiliate, stop and say Hey with a smile.
 
-Or forward this script to someone you are unable to meet in person.
+Or forward this script to someone you are unable to meet in person, and let the script do the talking!
 
 #Hey Day script
 
