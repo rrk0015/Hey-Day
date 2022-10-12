@@ -9,7 +9,7 @@ Or forward this script to someone you are unable to meet in-person, and let the 
 #Hey Day script
 
 ```ruby
-echo "Enter you name"
+echo "Enter your name"
 read name
 Echo "Hey $name :-)"
 ```
